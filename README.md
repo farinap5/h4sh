@@ -18,3 +18,4 @@
 > sha265 "string"
 > sha512 "string"
 ```
+`$ h4sh md5 "string"`
