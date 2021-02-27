@@ -7,6 +7,7 @@
 ## To run.
 > go run h4sh.go
 ## To build.
+Create a compiled file.
 > go build h4sh.go
 
 ### Usage:
