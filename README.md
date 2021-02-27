@@ -18,7 +18,9 @@
 > sha265 "string"
 > sha512 "string"
 ```
+### Command
 `$ h4sh md5 "string"`
+### Output
 ```
 MD5 <- string
 md5: b45cffe084dd3d20d928bee85e7b0f21
