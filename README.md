@@ -8,3 +8,12 @@
 > go run h4sh.go
 ## To build.
 > go build h4sh.go
+
+### Usage:
+```     -H4sh-
+  Usage Method:
+> md5 "string"
+> sha1 "string"
+> sha265 "string"
+> sha512 "string"
+```
