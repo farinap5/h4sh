@@ -10,7 +10,8 @@
 > go build h4sh.go
 
 ### Usage:
-```     -H4sh-
+``` 
+     -H4sh-
   Usage Method:
 > md5 "string"
 > sha1 "string"
